@@ -1,1 +1,5 @@
 # patterns-ts
+
+## Description
+
+### Singleton
