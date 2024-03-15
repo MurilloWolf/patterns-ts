@@ -10,3 +10,17 @@ Para rodar os exemplos, basta clonar o repositório e rodar o comando `npm insta
 ## Description
 
 ### Singleton
+
+```bash
+npm run singleton
+```
+
+### Observer
+
+```bash
+# Exemplo 1 - Sem estado
+npm run observer-1
+
+# Exemplo 2 (Product) - Com estado
+npm run observer-2
+```

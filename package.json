@@ -9,7 +9,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "singleton": "nodemon --exec ts-node src/singleton/log.ts"
+    "singleton": "nodemon --exec ts-node src/singleton/log.ts",
+    "observer-1": "nodemon --exec ts-node src/observer/example1/index.ts",
+    "observer-2": "nodemon --exec ts-node src/observer/product/index.ts"
   },
   "keywords": [],
   "author": "",
